@@ -40,4 +40,4 @@ Plugins are currently **private** and not open source.
 
 ---
 
-<p align="center"><sub>Created with care by Team Voltex · Est. 2025</sub></p>
+<p align="center"><sub>Created with care by Team Voltex · Est. 2016</sub></p>
